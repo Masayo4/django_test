@@ -1,0 +1,10 @@
+参考資料
+https://tutorial.djangogirls.org/ja/django_installation/
+
+仮装環境の立て方
+$ python3 -m venv "envname"
+
+仮装環境の起動
+$ source envname/bin/activate
+
+
